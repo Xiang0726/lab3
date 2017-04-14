@@ -1,7 +1,7 @@
 # lab3
-utilize makefile to compile lab3A.cpp
+For question A: utilize makefile to compile lab3A.cpp
  
-By approximated estimation,sort() is roughly nlogn,while insert_sort is about n to the power of two.The followering are some instances showing the time  difference between  two way of sorting.We can find that sort() is much faster than insert_sort,and the ratio of two sorting way is not far than we estimate and expect.
+For question B: By approximated estimation,sort() is roughly nlogn,while insert_sort is about n to the power of two.The followering are some instances showing the time  difference between  two way of sorting.We can find that "sort()" is much faster than "insert_sort",and the ratio of two sorting way is not far than we estimate and expect.
 
 when the size=1000
 sort(): 0.000148 seconds
